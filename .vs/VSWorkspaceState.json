@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BurgerApp.Mvc",
+    "\\BurgerApp.Mvc\\BurgerApp.Services",
+    "\\BurgerApp.Mvc\\BurgerApp.Services\\Services",
+    "\\BurgerApp.Mvc\\BurgerApp.Services\\Services\\Implementation"
+  ],
+  "SelectedNode": "\\BurgerApp.Mvc\\BurgerApp.Services\\Services\\Implementation\\OrderServices.cs",
+  "PreviewInSolutionExplorer": false
+}
