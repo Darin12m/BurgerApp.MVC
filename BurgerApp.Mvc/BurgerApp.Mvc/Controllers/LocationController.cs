@@ -19,8 +19,8 @@ namespace BurgerApp.Mvc.Controllers
         // GET: LocationController
         public ActionResult Index()
         {
-            var DTOs = locationService.GetAll();
-            return View(DTOs);
+            var getLocation = locationService.GetAll();
+            return View(getLocation);
         }
 
 

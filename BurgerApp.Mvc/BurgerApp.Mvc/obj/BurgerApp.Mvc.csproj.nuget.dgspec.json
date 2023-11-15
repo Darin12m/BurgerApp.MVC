@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj": {}
+    "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj": {
+    "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
         "projectName": "BurgerApp.Data",
-        "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
+        "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
         "packagesPath": "C:\\Users\\darin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj": {
+    "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj",
         "projectName": "BurgerApp.Mvc",
-        "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj",
+        "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Mvc\\BurgerApp.Mvc.csproj",
         "packagesPath": "C:\\Users\\darin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj": {
-                "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj"
+              "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+                "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+    "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectUniqueName": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj",
         "projectName": "BurgerApp.Services",
-        "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\BurgerApp.Services.csproj",
         "packagesPath": "C:\\Users\\darin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Services\\obj\\",
+        "outputPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj": {
-                "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj"
+              "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj": {
+                "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj"
               }
             }
           }

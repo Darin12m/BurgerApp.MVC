@@ -23,8 +23,8 @@ namespace BurgerApp.Mvc.Controllers
         // GET: OrderController
         public ActionResult Index()
         {
-            var DTOs = orderService.GetAll();
-            return View(DTOs);
+            var allOrder = orderService.GetAll();
+            return View(allOrder);
         }
 
         // GET: OrderController/Details/5

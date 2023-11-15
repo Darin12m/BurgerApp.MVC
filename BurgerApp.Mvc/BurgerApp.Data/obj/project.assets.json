@@ -2624,11 +2624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
+      "projectUniqueName": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
       "projectName": "BurgerApp.Data",
-      "projectPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
+      "projectPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\BurgerApp.Data.csproj",
       "packagesPath": "C:\\Users\\darin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darin\\Desktop\\ZaGitHub\\BurgerApp\\BurgerApp.Mvc\\BurgerApp.Data\\obj\\",
+      "outputPath": "C:\\Users\\darin\\Documents\\GitHub\\BurgerApp.MVC\\BurgerApp.Mvc\\BurgerApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BurgerApp.Services
-build_property.ProjectDir = C:\Users\darin\Desktop\ZaGitHub\BurgerApp\BurgerApp.Mvc\BurgerApp.Services\
+build_property.ProjectDir = C:\Users\darin\Documents\GitHub\BurgerApp.MVC\BurgerApp.Mvc\BurgerApp.Services\
